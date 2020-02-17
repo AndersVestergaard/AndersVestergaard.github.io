@@ -110,8 +110,8 @@ function init() {
     window.addEventListener('resize', onWindowResize, false);
 
     //Debug
-    var axesHelper = new THREE.AxesHelper(10);
-    scene.add(axesHelper);
+    // var axesHelper = new THREE.AxesHelper(10);
+    // scene.add(axesHelper);
 
     ////////////Image
     // var map = new THREE.TextureLoader().load( me );
